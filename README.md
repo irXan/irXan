@@ -5,7 +5,53 @@
 
 <!-- ██████████████  TOP BANNER  ██████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Irzan%20Ahmad&fontSize=85&color=0:0a0a0a,50:0d1f0d,100:000000&fontColor=ffffff&stroke=00ff41&strokeWidth=2&animation=fadeIn&desc=Flutter%20Developer%20%E2%80%A2%20Vibe%20Coder%20%E2%80%A2%20Cross-Platform%20Builder&descSize=17&descColor=00ff41&descAlignY=68" width="100%"/>
+<svg
+        width="854"
+        height="180"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 180"
+      >
+        <style>
+      .text {   font-size: 52px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 15px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#000000"/><stop offset="50%" stop-color="#0A192F"/><stop offset="100%" stop-color="#0D1117"/>
+              </linearGradient>
+            </defs>
+        
+      <g transform="translate(427, 90) scale(1, 1) translate(-427, -90)">
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z;M0 0L 0 125Q 213.5 140 427 120T 854 110L 854 0 Z;M0 0L 0 145Q 213.5 115 427 145T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 140 427 110T 854 135L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 100 427 100T 854 120L 854 0 Z;M0 0L 0 125Q 213.5 105 427 130T 854 145L 854 0 Z;M0 0L 0 115Q 213.5 160 427 130T 854 140L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="42%" class="text" style="fill:#FFFFFF;" stroke="#none" stroke-width="1" >Abhijeet Shrimali</text>
+        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="65%" class="desc" style="fill:#FFFFFF;">Backend Engineer • MERN Stack • Karachi 🇵🇰</text>
+      </svg>
 
 <!-- ██████████████  TYPING — TRANSPARENT BG  ██████████████ -->
 <div align="center">
