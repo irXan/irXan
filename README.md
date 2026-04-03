@@ -48,28 +48,6 @@ class IrzanAhmad extends FlutterDeveloper {
 
 <br/>
 
----
-
-<!-- ██████████████  GITHUB STATS  ██████████████ -->
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=irXan&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irXan&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8" height="175"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=irXan&theme=midnight-purple&hide_border=true" width="480"/>
-
-</div>
-
-<br/>
-
----
-
 <!-- ██████████████  TECH STACK  ██████████████ -->
 
 ## 💻 &nbsp;Tech Stack
@@ -113,22 +91,6 @@ class IrzanAhmad extends FlutterDeveloper {
 </div>
 
 <br/>
-
----
-
-<!-- ██████████████  TROPHIES  ██████████████ -->
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=irXan&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
 
 <!-- ██████████████  SOCIALS  ██████████████ -->
 
