@@ -47,26 +47,6 @@ class IrzanAhmad extends Developer {
 }
 ```
 
----
-
-<!-- ██████████████  STATS ROW  ██████████████ -->
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=irXan&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=420" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irXan&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8&card_width=320" height="180"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=irXan&theme=chartreuse-dark&hide_border=true&fire=00FF41&ring=00FF41&currStreakLabel=00FF41" width="500"/>
-
-</div>
-
----
-
 <!-- ██████████████  TECH STACK  ██████████████ -->
 
 ## 💻 &nbsp;Tech Stack
