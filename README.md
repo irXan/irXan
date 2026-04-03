@@ -102,22 +102,6 @@ class IrzanAhmad extends Developer {
 
 ---
 
-<!-- ██████████████  FOOTER SNAKE + VISITOR  ██████████████ -->
-
-<div align="center">
-
-### 🐍 &nbsp;My Contributions Eating Themselves
-
-![Snake animation](https://github.com/irXan/irXan/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=irXan&label=Profile%20Views&color=00ff41&style=for-the-badge)
-&nbsp;
-[![](https://visitcount.itsvg.in/api?id=irXan&icon=5&color=2)](https://visitcount.itsvg.in)
-
-</div>
-
 <!-- ██████████████  CLOSING BANNER  ██████████████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=24&fontColor=00ff41&animation=twinkling" width="100%"/>
