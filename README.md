@@ -1,16 +1,18 @@
 <!-- ============================================================
-     IRZAN AHMAD — GitHub Profile README v3
-     Black base · White name · Neon green accents · Purple stats
+     IRZAN AHMAD — GitHub Profile README v4
+     ONE direction: Electric Cyan × Pure Black × White text
+     Clean. Minimal. Neon. No clashing colors.
      ============================================================ -->
 
-<!-- ██████████████  TOP BANNER  ██████████████ -->
+<!-- ██████████████  BANNER — WHITE NAME, CYAN ACCENT  ██████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Irzan%20Ahmad&fontSize=85&color=0:0a0a0a,50:0d1f0d,100:000000&fontColor=ffffff&stroke=00ff41&strokeWidth=2&animation=fadeIn&desc=Flutter%20Developer%20%E2%80%A2%20Vibe%20Coder%20%E2%80%A2%20Cross-Platform%20Builder&descSize=17&descColor=00ff41&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Irzan%20Ahmad&fontSize=82&color=0:000000,100:000000&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=Flutter%20Developer%20%E2%80%A2%20Vibe%20Coder%20%E2%80%A2%20Cross-Platform%20Builder&descSize=16&descColor=ffffff&descAlignY=72" width="100%"/>
 
-<!-- ██████████████  TYPING — TRANSPARENT BG  ██████████████ -->
+<!-- ██████████████  TYPING — TRANSPARENT, CYAN  ██████████████ -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=📱+Building+Flutter+apps+that+actually+ship;🔥+Firebase+%7C+Supabase+%7C+MERN+Stack;⚡+Clean+UI+%7C+Solid+Architecture;🚀+Karachi+→+Global+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&height=40&lines=📱+Flutter+%26+Dart+Developer;🔥+Firebase+%7C+Supabase+%7C+MERN;⚡+Clean+UI+%7C+Solid+Architecture;🚀+Karachi+→+Global+Products)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +22,7 @@
 
 <!-- ██████████████  ABOUT ME  ██████████████ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> &nbsp;About Me
+## 🧑‍💻 &nbsp;About Me
 
 ```dart
 class IrzanAhmad extends FlutterDeveloper {
@@ -47,6 +49,28 @@ class IrzanAhmad extends FlutterDeveloper {
 ```
 
 <br/>
+
+---
+
+<!-- ██████████████  STATS  ██████████████ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irXan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&icon_color=00d4ff&title_color=00d4ff" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irXan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00d4ff" height="175"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=irXan&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff" width="480"/>
+
+</div>
+
+<br/>
+
+---
 
 <!-- ██████████████  TECH STACK  ██████████████ -->
 
@@ -80,17 +104,33 @@ class IrzanAhmad extends FlutterDeveloper {
 
 ---
 
-<!-- ██████████████  ACTIVITY GRAPH  ██████████████ -->
+<!-- ██████████████  ACTIVITY GRAPH — CYAN ON BLACK  ██████████████ -->
 
 ## 📈 &nbsp;Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irXan&bg_color=0d0d0d&color=c792ea&line=00ff41&point=ffffff&area=true&area_color=1a0a2e&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irXan&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
+
+---
+
+<!-- ██████████████  TROPHIES — MATCHING THEME  ██████████████ -->
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=irXan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
 
 <!-- ██████████████  SOCIALS  ██████████████ -->
 
@@ -107,8 +147,24 @@ class IrzanAhmad extends FlutterDeveloper {
 
 <br/>
 
-<!-- ██████████████  FOOTER  ██████████████ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0a2e,100:00ff41&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=22&fontColor=00ff41&animation=twinkling&fontAlignY=65" width="100%"/>
+<!-- ██████████████  SNAKE  ██████████████ -->
+
+<div align="center">
+
+### 🐍 &nbsp;Contributions
+
+![Snake animation](https://github.com/irXan/irXan/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=irXan&label=Profile+Views&color=00d4ff&style=for-the-badge)
+
+</div>
+
+<!-- ██████████████  FOOTER — PURE BLACK, CYAN TEXT  ██████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:000000,100:000000&fontColor=00d4ff&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=22&fontColor=00d4ff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <!-- SEO: Flutter developer Pakistan, Dart developer Karachi, cross-platform mobile apps, Firebase Flutter developer, MERN stack, open source contributor -->
