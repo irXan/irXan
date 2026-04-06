@@ -50,28 +50,6 @@ class IrzanAhmad extends FlutterDeveloper {
 
 <br/>
 
----
-
-<!-- ██████████████  STATS  ██████████████ -->
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=irXan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&icon_color=00d4ff&title_color=00d4ff" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irXan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00d4ff" height="175"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=irXan&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff" width="480"/>
-
-</div>
-
-<br/>
-
----
-
 <!-- ██████████████  TECH STACK  ██████████████ -->
 
 ## 💻 &nbsp;Tech Stack
@@ -116,22 +94,6 @@ class IrzanAhmad extends FlutterDeveloper {
 
 <br/>
 
----
-
-<!-- ██████████████  TROPHIES — MATCHING THEME  ██████████████ -->
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=irXan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
 <!-- ██████████████  SOCIALS  ██████████████ -->
 
 ## 🌐 &nbsp;Connect With Me
@@ -146,22 +108,6 @@ class IrzanAhmad extends FlutterDeveloper {
 </div>
 
 <br/>
-
----
-
-<!-- ██████████████  SNAKE  ██████████████ -->
-
-<div align="center">
-
-### 🐍 &nbsp;Contributions
-
-![Snake animation](https://github.com/irXan/irXan/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=irXan&label=Profile+Views&color=00d4ff&style=for-the-badge)
-
-</div>
 
 <!-- ██████████████  FOOTER — PURE BLACK, CYAN TEXT  ██████████████ -->
 
