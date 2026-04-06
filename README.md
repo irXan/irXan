@@ -6,7 +6,7 @@
 
 <!-- ██████████████  BANNER — WHITE NAME, CYAN ACCENT  ██████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Irzan%20Ahmad&fontSize=82&color=0:000000,100:000000&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=Flutter%20Developer%20%E2%80%A2%20Vibe%20Coder%20%E2%80%A2%20Cross-Platform%20Builder&descSize=16&descColor=ffffff&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Irzan%20Ahmad&fontSize=82&color=0:000000,100:000000&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=Flutter%20Developer%20%E2%80%A2%20Vibe%20Coder%20%E2%80%A2%20Cross-Platform%20Builder&descSize=16&descColor=ffffff&descAlignY=72&fontFamily=Raleway" width="100%"/>
 
 <!-- ██████████████  TYPING — TRANSPARENT, CYAN  ██████████████ -->
 
@@ -49,6 +49,28 @@ class IrzanAhmad extends FlutterDeveloper {
 ```
 
 <br/>
+
+---
+
+<!-- ██████████████  STATS  ██████████████ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=irXan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&icon_color=00d4ff&title_color=00d4ff" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irXan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00d4ff" height="175"/>
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=irXan&theme=tokyonight&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff" width="480"/>
+
+</div>
+
+<br/>
+
+---
 
 <!-- ██████████████  TECH STACK  ██████████████ -->
 
@@ -94,6 +116,22 @@ class IrzanAhmad extends FlutterDeveloper {
 
 <br/>
 
+---
+
+<!-- ██████████████  TROPHIES — MATCHING THEME  ██████████████ -->
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=irXan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
 <!-- ██████████████  SOCIALS  ██████████████ -->
 
 ## 🌐 &nbsp;Connect With Me
@@ -109,8 +147,24 @@ class IrzanAhmad extends FlutterDeveloper {
 
 <br/>
 
+---
+
+<!-- ██████████████  SNAKE  ██████████████ -->
+
+<div align="center">
+
+### 🐍 &nbsp;Contributions
+
+![Snake animation](https://github.com/irXan/irXan/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=irXan&label=Profile+Views&color=00d4ff&style=for-the-badge)
+
+</div>
+
 <!-- ██████████████  FOOTER — PURE BLACK, CYAN TEXT  ██████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d1117,100:0d1117&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Keep+Building+%F0%9F%9A%80&fontSize=30&fontColor=00d4ff&color=0:000000,50:000000,100:000000&section=footer&fontAlignY=60&animation=twinkling&fontFamily=Raleway" width="100%"/>
 
 <!-- SEO: Flutter developer Pakistan, Dart developer Karachi, cross-platform mobile apps, Firebase Flutter developer, MERN stack, open source contributor -->
